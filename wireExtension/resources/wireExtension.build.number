@@ -1,0 +1,11 @@
+#Ant properties
+#Fri Aug 18 13:15:53 UTC 2017
+builddate=20170818 1315
+description=wireExtension
+group.id=de.hybris.platform
+module.name=platform-module
+name=wireExtension
+releasedate=20170803 1321
+vendor=hybris
+version=6.5.0.0
+version.api=6.5.0
